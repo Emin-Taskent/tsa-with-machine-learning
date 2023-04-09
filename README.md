@@ -1,1 +1,1 @@
-# tsa-with-machine-learning
+# time-series-analysis-with-machine-learning
